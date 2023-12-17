@@ -14,7 +14,7 @@ English Version
 1. 在 AppStore/Google Play 中下载 ChatGPT 官方应用，注册并登录（需要非国区的应用市场）。
 2. 订阅 ChatGPT Plus。如果 iOS/Android 上无法支付，推荐使用 WildCard 一条龙服务：https://bewildcard.com/i/BEIQIAO
 3. 访问 https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator
-4. 选择在 ChatGPT 中打开，点击右下角的话筒按钮即可开始使用。
+4. 选择在 ChatGPT 中打开，点击右下角的耳机按钮即可开始使用。
 
 GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 40 条，也足够一次完整的练习了。
 
