@@ -37,6 +37,7 @@ GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 4
 1. 评估的分数作为参考就好，不要太当真。目前版本无法对发音提供详细反馈，整个反馈都是基于语音识别后的文本。
 2. 在练习完成后，我会切换到电脑上，要求其针对对话的内容进行进一步的分析以及改进。我最常用的 Prompt 是：
    > Please arrange a comprehensive, enhanced, and detailed response that aligns with my words and avoids complex terminology, focusing on the topic and questions mentioned. You can start by structuring Part 1.
+   
    然后再以此改造 Part 2、Part 3。如果对改善后的文本不满意，可以重试或者明确的指出你的需求。
 
 （也欢迎大家分享对话结束后整理、总结的相关 Prompt。）
