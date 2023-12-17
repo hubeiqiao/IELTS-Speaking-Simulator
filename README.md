@@ -3,6 +3,14 @@ A GPT offers an authentic practice experience, helpful for anyone preparing for 
 
 [English Version](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md)
 
+## 目录
+- 介绍
+- 如何使用
+- 使用技巧
+- 学习途中的想法碎片
+- 制作过程分享
+- 为什么分享出来
+
 
 ## 介绍
 [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是基于 ChatGPT 的一款 GPT，它不仅完整模拟了雅思口语考试流程，并能随机抽取最新题库。对话结束后，除了提供评估外，还可以根据对话内容整理并改善文本。与单独练习相比，更贴近真实场景。
@@ -57,7 +65,7 @@ GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 4
 4. 题库取自雅思哥整理的 9-12 月题库，等 2024 年 1-4 月的出来后会跟随更新。
 
 
-## 为什么要分享出来
+## 为什么分享出来
 1. 这个 GPT 只是我自己用以及探索可能性的，现在一切都还是太早了。在每天练习后，我都会不由感叹这真是太棒了，并暗自称赞这是目前同类中最好的 GPT。想着反正都做出来了，不如让更多有类似需求的朋友来使用。
 2. 更坦诚地讲，没什么要隐藏的，因为通过 Prompt 技巧是可以把我的 Instructions 给拿到的（我也没想过增加保护 Prompt，因为始终会有方式弄出来）。既然如此，不如直接公开出来给大家。
 3. 产品上，现在的使用者至少有几百位了，因此我需要更谨慎的来做改动。既然如此，不如公开分享出来，让大家都有基于自己需求修改的可能性  以及搜集大家的反馈来改进这个小工具。
