@@ -1,4 +1,4 @@
-# IELTS-Speaking-Simulator
+# IELTS Speaking Simulator
 A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.
 
 [中文版本介绍](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md)
