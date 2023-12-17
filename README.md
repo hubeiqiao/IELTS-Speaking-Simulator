@@ -4,12 +4,12 @@ A GPT offers an authentic practice experience, helpful for anyone preparing for 
 [English Version](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md)
 
 ## 目录
-- 介绍
-- 如何使用
-- 使用技巧
-- 学习途中的想法碎片
-- 制作过程分享
-- 为什么分享出来
+- [介绍](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/tree/main?tab=readme-ov-file#%E4%BB%8B%E7%BB%8D)
+- [如何使用](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/tree/main?tab=readme-ov-file#%E4%BB%8B%E7%BB%8D)
+- [使用技巧](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/tree/main?tab=readme-ov-file#%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
+- [学习途中的想法碎片](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/tree/main?tab=readme-ov-file#%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
+- [制作过程分享](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/tree/main?tab=readme-ov-file#%E5%88%B6%E4%BD%9C%E8%BF%87%E7%A8%8B%E5%88%86%E4%BA%AB)
+- [为什么分享出来](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/tree/main?tab=readme-ov-file#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%88%86%E4%BA%AB%E5%87%BA%E6%9D%A5)
 
 
 ## 介绍
