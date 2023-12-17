@@ -33,9 +33,10 @@ As it's based on GPT-4, you can send 40 messages every 3 hours, which is enough 
 ## Wrapping Up
 1. Use the assessment score as a guideline but don't stress over it too much. Currently, it can't give detailed feedback on pronunciation, and the feedback is based on the text after voice recognition.
 2. After completing the practice, I switch to the computer and ask it to further analyze and improve the conversation content. My most common prompt is:
+   
    > Please arrange a comprehensive, enhanced, and detailed response that aligns with my words and avoids complex terminology, focusing on the topic and questions mentioned. You can start by structuring Part 1.
-  
-  Then, modify Part 2 and 3 accordingly. If you're not satisfied with the improved text, you can retry or specify your needs.
+   
+   Then, modify Part 2 and 3 accordingly. If you're not satisfied with the improved text, you can retry or specify your needs.
 
 (Feel free to share your own prompts for organizing and summarizing after conversations!)
 
