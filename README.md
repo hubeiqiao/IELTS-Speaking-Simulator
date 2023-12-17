@@ -5,7 +5,7 @@ A GPT offers an authentic practice experience, helpful for anyone preparing for 
 
 
 ## 介绍
-[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是基于 ChatGPT 的一款 GPT，它不仅完整模拟了雅思口语考试流程，并能随机抽取最新题库。对话结束后，除了提供评估外，还可以根据对话内容整理并改善文本。与单独练习相比，这种方式更贴近真实场景。
+[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是基于 ChatGPT 的一款 GPT，它不仅完整模拟了雅思口语考试流程，并能随机抽取最新题库。对话结束后，除了提供评估外，还可以根据对话内容整理并改善文本。与单独练习相比，更贴近真实场景。
 
 ![IELTS Speaking Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator_Interface.jpg)
 
@@ -34,7 +34,7 @@ GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 4
 
 
 ### 对话结束后
-1. 评估的分数作为参考就好，不要太当真。目前版本无法对发音提供详细反馈，整个反馈都是基于语音识别后的文本。
+1. 评估的分数作为参考就好，不要太当真。目前版本无法对发音提供详细反馈，都是基于语音识别后的文本。
 2. 在练习完成后，我会切换到电脑上，要求其针对对话的内容进行进一步的分析以及改进。我最常用的 Prompt 是：
    > Please arrange a comprehensive, enhanced, and detailed response that aligns with my words and avoids complex terminology, focusing on the topic and questions mentioned. You can start by structuring Part 1.
    
