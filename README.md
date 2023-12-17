@@ -72,4 +72,4 @@ GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 4
 
 ---
 
-最后，由衷的感谢 Sam 和 OpenAI([ChatGPT 发布一周年个人随想](https://hubeiqiao.notion.site/ChatGPT-0f9698e081dc4a1ca647293ec8c783ea?pvs=4))。我从未想过自己一个人不是那么耗时的就能够做出这样的产品，这也间接说明了 Artificial General Intelligence(AGI) 将会在未来的年份里彻底革新整个社会。对于我们这样的普通人，当下最务实的建议就是在真实场景中去实际体验这些产品。这仅仅只是个开始，需要更多耐心。
+最后，由衷的感谢 Sam 和 OpenAI([《ChatGPT 发布一周年个人随想》](https://hubeiqiao.notion.site/ChatGPT-0f9698e081dc4a1ca647293ec8c783ea?pvs=4))。我从未想过自己一个人不是那么耗时的就能够做出这样的产品，这也间接说明了 Artificial General Intelligence(AGI) 将会在未来的年份里彻底革新整个社会。对于我们这样的普通人，当下最务实的建议就是在真实场景中去实际体验这些产品。这仅仅只是个开始，需要更多耐心。
