@@ -1,7 +1,9 @@
 # IELTS Speaking Simulator
 A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.
 
-[简体中文版本介绍](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md)
+[简体中文版本](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md)
+
+[繁體中文版本](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md)
 
 # Introduction
 [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) is a GPT based on ChatGPT. It accurately simulates the IELTS speaking test, choosing questions from the latest question bank. It assesses and refines your responses after the conversation, offering a more realistic practice than doing it solo.
