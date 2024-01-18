@@ -52,10 +52,10 @@ GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 4
 
 
 ## 制作过程分享
-1. 我在 [附件](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS-Speaking-Simulator_Instructrion_20231215.txt) 中附上了这个 GPT 当前的 Instructions，你可以复制一份创建属于你自己的 GPTs 以及针对性改造其中的流程或者题库。
+1. 我在 [附件](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS-Speaking-Simulator_Instructrion_20231215.txt) 中附上了这个 GPT 当前的 Instructions（Python 脚本也补上了），你可以复制一份创建属于你自己的 GPTs 以及针对性改造其中的流程或者题库。
 2. 在制作这个 GPT 时，遇到的最大困难是不知道如何让其能够做到随机抽取题库。修改测试了多次 Prompt 后都依旧做不到随机，都是固定循环。幸运的是，在 [@goldengrape](https://twitter.com/goldengrape) 的提示下，我意识到 Knowledge 除了可以上传文本文件外，还可以上传 Python 脚本让其使用 Code Interpreter 执行。若干次调试后，总算解决了问题。曾经也考虑过使用 Actions 来对接外部接口，但当前的 GPTs 一旦使用外部 Actions 后，就没办法在手机上用了，也就无法使用语音对话功能了。
 3. 体验的其他类似 GPT，大多都会把该 Topic 下的所有问题都扔出来。一开始我也遇到了类似问题，经过多次尝试修改后才勉强解决问题（并不能保证完全解决，如果遇到了就重试一次吧）。
-4. 题库取自雅思哥整理的 9-12 月题库，等 2024 年 1-4 月的出来后会跟随更新。
+4. 附件中题库取自雅思哥整理的 9-12 月题库。当前 GPT 中的题库已更新至 2024 年 1-4 月的题库。
 
 
 ## 为什么分享出来
