@@ -1,7 +1,7 @@
 # IELTS Speaking Simulator
 A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.
 
-[中文版本介绍](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md)
+[简体中文版本介绍](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md)
 
 # Introduction
 [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) is a GPT based on ChatGPT. It accurately simulates the IELTS speaking test, choosing questions from the latest question bank. It assesses and refines your responses after the conversation, offering a more realistic practice than doing it solo.
@@ -21,12 +21,14 @@ As it's based on GPT-4, you can send 40 messages every 3 hours, which is enough 
 
 ## Getting Started
 1. Make sure you have enough usage quota for GPT-4, or you might get a message saying you've reached your limit. If this happens, just click the headphone button again after your quota is refreshed.
-2. I usually start with "Let's do a full IELTS speaking simulation today" to simulate a complete speaking test. If you only need to simulate Part 1 or Part 2 & 3, just inform it.
-3. Don’t worry if you hear squeaking sounds after starting the conversation - it’s just Python picking questions randomly. If it doesn’t work and you get the same questions, give it another go. Also, it's normal to hear the squeaking sound twice and be asked your name twice - I'm not sure why, but it happens.
+~~2. I usually start with "Let's do a full IELTS speaking simulation today" to simulate a complete speaking test. If you only need to simulate Part 1 or Part 2 & 3, just inform it.~~
+~~3. Don’t worry if you hear squeaking sounds after starting the conversation - it’s just Python picking questions randomly. If it doesn’t work and you get the same questions, give it another go. Also, it's normal to hear the squeaking sound twice and be asked your name twice - I'm not sure why, but it happens.~~
+
+Due to instability in running scripts in voice mode, and because repeated attempts after failure continuously consume GPT-4 usage quotas, as of January 18. 2024, a workaround is to first select the module you need to simulate in text mode—‘Part 1’, ‘Part 2&Part3’, or ‘A Full Simulator’. After the script has finished running, then enter voice mode to start the voice dialogue.
 
 ## While Chatting
 1. If you miss a question, feel free to ask for it to be repeated, just like in a real test.
-2. A notable issue is that if you hesitate in the conversation, it may interrupt due to ChatGPT's voice conversation capabilities. Although I've included prompts to encourage finishing unanswered questions, it often skips ahead. Try to keep the conversation flowing.
+2. ~~A notable issue is that if you hesitate in the conversation, it may interrupt due to ChatGPT's voice conversation capabilities. Although I've included prompts to encourage finishing unanswered questions, it often skips ahead. Try to keep the conversation flowing.~~ As of December 27, 2023, you can avoid this issue by long-pressing during input.
 3. During Part 2, it won't remind you when the 1-minute preparation time is up, so keep an eye on the time.
 4. Sometimes, the questions in Parts 1 and 3 are limited; you might want to give it another try if that happens.
 
@@ -51,7 +53,7 @@ As it's based on GPT-4, you can send 40 messages every 3 hours, which is enough 
 1. I've attached [the current instructions](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS-Speaking-Simulator_Instructrion_20231215.txt) for this GPT in an attachment. You can copy them to create your own GPTs and customize the process or question bank.
 2. The biggest challenge in creating this GPT was figuring out how to enable it to randomly select questions from the question bank. Despite many prompt modifications, it wasn't random but followed a fixed cycle. Fortunately, with [@goldengrape](https://twitter.com/goldengrape)'s hint, I realized that Knowledge can upload Python scripts for execution with the Code Interpreter, which solved the issue. I also considered using Actions to connect to external interfaces, but using external Actions on a GPT prevents it from being used on mobile, thereby losing the voice conversation feature.
 3. Other similar GPT experiences usually present all questions under a Topic. Initially, I encountered the same issue, but after numerous modifications, I managed to somewhat resolve it (not guaranteed, retry if needed).
-4. The question bank is from IELTS Brother's collection for September-December, and it will be updated with the January-April 2024 questions.
+4. The question bank in the attachment is compiled by IETLS Brother and covers the months from September to December 2023. The question bank in the current GPT has been updated to include questions from January to April 2024.
 
 # Why share
 1. This GPT is for my use and exploring possibilities, and it's all still very new. Practicing daily, I've come to think of it as the best in its category, silently admiring its capabilities. Since I've created it, I figured why not let friends with similar interests benefit from it too.
