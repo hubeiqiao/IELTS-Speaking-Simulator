@@ -3,6 +3,8 @@ A GPT offers an authentic practice experience, helpful for anyone preparing for 
 
 [English Version](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md)
 
+[繁體中文版本](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md)
+
 
 ## 介绍
 [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是基于 ChatGPT 的一款 GPT，它不仅完整模拟了雅思口语考试流程，并能随机抽取最新题库。对话结束后，除了提供评估外，还可以根据对话内容整理并改善文本。与单独练习相比，更贴近真实场景。
