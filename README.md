@@ -14,7 +14,7 @@ A GPT offers an authentic practice experience, helpful for anyone preparing for 
 1. 在 AppStore/Google Play 中下载 ChatGPT 官方应用，注册并登录（需要非国区的应用市场）。
 2. 订阅 ChatGPT Plus。如果 iOS/Android 上无法支付，推荐使用 WildCard 一条龙服务：https://bewildcard.com/i/BEIQIAO
 3. 访问 https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator
-4. 选择在 ChatGPT 中打开，点击右下角的耳机按钮即可开始使用。
+4. 选择在 ChatGPT 中打开，选择对应要模拟的模块，等待脚本运行完毕，点击右下角的耳机按钮即可开始对话。
 
 GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 40 条，也足够一次完整的练习了。
 
@@ -25,7 +25,7 @@ GPTs 是基于 GPT-4 的，因此按照目前的限制，每 3 小时可以发 4
 2. ~~我通常第一句话会讲“Let's do a full IELTS speaking simulation today.”来模拟一次完整的口语考试。如果只有模拟 Part 1 或者 Part 2&Part 3 的需求，直接告知它即可。~~ 
 3. ~~开始对话后，听到有吱吱声是正常的，说明它正在使用 Python 随机抽取题库。如果没有运行导致出现固定题目的情况，可以重试一次。除此之外，有一定几率你会听到两次吱吱声以及询问两遍你的名字（我也不知道这是什么问题导致的），也是正常的。~~
 
-由于在语音模式下脚本运行不太稳定，截止 2024/01/18，规避手段是先在文本模式下选择对应需要模拟的模块「Part 1」、「Part2&Part3」或者「A Full Simulation」，等待脚本运行完成后再进入语音模式开启语音对话。
+由于在语音模式下脚本运行不太稳定，并且失败后反复重试会不断消耗 GPT-4 的使用额度，截止 2024/01/18，规避手段是先在文本模式下选择对应需要模拟的模块「Part 1」、「Part2&Part3」或者「A Full Simulation」，等待脚本运行完成后再进入语音模式开启语音对话。
 
 ### 对话进行中
 1. 对话过程中，如果没听清楚问题，可以要求其再重复一遍（在真实考试中也可以这样）。
