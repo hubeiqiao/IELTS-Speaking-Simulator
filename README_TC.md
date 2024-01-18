@@ -2,6 +2,7 @@
 A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.
 
 [English Version](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md)
+
 [简体中文版本](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md)
 
 ## 介紹
