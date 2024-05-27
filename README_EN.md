@@ -2,8 +2,9 @@
     <img width="200" height="200" style="display: block; border: 1px solid #f5f5f5; border-radius: 9999px;" src="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20icon.png">
 </div>
 <div align="center">
-    <h1>IELTS Speaking Simulator</h1>
+    <h1><a href="https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator">IELTS Speaking Simulation</a></h1>
     <p>A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.</p>
+    <p>4.4 Ratings(100+), 10K+ Conversations</p>
     <p>English&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md">简体中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md">繁體中文</a>
