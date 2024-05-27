@@ -1,42 +1,136 @@
-# IELTS-Speaking-Simulator
-A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.
-
-[English Version](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md)
-
-[简体中文版本](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md)
-
-## 介紹
-[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是一款基於 ChatGPT 的工具，它不僅完整模擬了雅思口語考試流程，還能隨機抽取最新的題庫。對話結束後，除了提供評估外，還可以根據對話內容進行整理並改善文本。與單獨練習相比，更接近真實場景。
+<div align="center">
+    <img width="200" height="200" style="display: block; border: 1px solid #f5f5f5; border-radius: 9999px;" src="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20icon.png">
+</div>
+<div align="center">
+    <h1><a href="https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator">IELTS Speaking Simulation</a></h1>
+    <p>A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.</p>
+    <p>4.4 Ratings(100+), 10K+ Conversations</p>
+   <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md">简体中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a>繁體中文</a>
+</a></p>
 
 ![IELTS Speaking Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator_Interface.jpg)
 
-## 如何使用
-1. 在 AppStore/Google Play 中下載 ChatGPT 官方應用，註冊並登入。
-2. 訂閱 ChatGPT Plus。如果 iOS/Android 上無法支付，推薦使用 WildCard 一條龍服務：https://bewildcard.com/i/BEIQIAO
-3. 訪問 https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator
-4. 選擇在 ChatGPT 中打開，選擇對應要模擬的模塊，等待腳本運行完畢，點擊右下角的耳機按鈕即可開始對話。
+</div>
 
-GPTs 是基於 GPT-4 的，因此按照目前的限制，每 3 小時可以發 40 條，也足夠一次完整的練習了。
 
-## 使用技巧
-### 對話開始
-1. 確保有足夠的 GPT-4 使用額度，否則可能在練習過程中被告知達到了上限。即便真到了上限，有額度後可以再次點擊耳機按鈕繼續練習。
-2. 由於在語音模式下腳本運行不太穩定，並且失敗後反覆重試會不斷消耗 GPT-4 的使用額度，截止 2024/01/18，規避手段是先在文本模式下選擇對應需要模擬的模塊「Part 1」、「Part2&Part3」或者「A Full Simulation」，等待腳本運行完成後再進入語音模式開啟語音對話。
+# 介紹
+[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是一款基於 ChatGPT 的工具，它不僅完整模擬了雅思口語考試流程，還能隨機抽取最新的題庫。對話結束後，除了提供評估外，還可以根據對話內容進行整理並改善文本。與單獨練習相比，更接近真實場景。
 
-### 對話進行中
-1. 對話過程中，如果沒聽清楚問題，可以要求其再重複一遍（在真實考試中也可以這樣）。
-2. 截止 2023/12/27，可以通過在輸入時長按的方式來規避對話中斷的問題。
-3. Part 2 部分，實際不會在 1 分鐘準備時間到時提示你，這個自己看下時間就好了。
-4. 有時候 Part 1 和 Part 3 問的問題會很少，可以重新再來一次。
+# 第三版更新说明
 
-### 對話結束後
-1. 評估的分數作為參考就好，不要太當真。目前版本無法對發音提供詳細反饋，都是基於語音識別後的文本。
-2. 在練習完成後，我會切換到電腦上，要求其針對對話的內容進行進一步的分析以及改進。我最常用的 Prompt 是：
-   > Could you please organize the full, improved and detailed answer(but just match my words; do not use complex words) based on the above topic and questions? You can first organize Part 1.
-    
-   然後再以此改造 Part 2、Part 3。如果對改善後的文本不滿意，可以重試或者明確的指出你的需求。
+[IELTS Speaking Simulation GPT](https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator) 發布了第三版更新：
 
-### 學習途中的想法碎片
+1. 更新至最新 2024 年 5-8 月題庫。
+2. 大幅提升隨機抽題穩定性。
+3. 優化體驗，模擬完成後自動詢問是否需改進答案，無需每次手動描述。
+
+*注意：當前語音功能仍為舊版本。在 GPT-4o 發佈會上演示的即時功能尚需等待。*
+
+得益於 GPT-4o 的逐步開放，被灰度到的免費用戶也可以直接體驗這個 GPT 了。如果點擊連結後依舊不能使用，則說明你的帳號還未被灰度到，請再耐心等待或者開通 Plus。（當前免費用戶每 3 小時只能進行 16 條對話，從嘗試體驗的角度足夠了。如果要做完整練習，建議還是開通 Plus。）
+
+為了方便更多的朋友了解和使用，以下是該 GPT 完整的使用指南，歡迎查看。
+
+# 使用指南
+
+## 前置條件
+
+1. [IELTS Speaking Simulation](https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator) 基於 ChatGPT 的 GPTs 以及語音功能實現。當前語音功能僅在 ChatGPT 官方應用中可用，因此需要先在 AppStore/Google Play 中下載 ChatGPT 官方應用，註冊並登錄。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%200.png)
+
+2. 訪問 [IELTS Speaking Simulation](https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator) 的連結。如果你不能直接與其對話，則說明你的帳號還不能免費使用 GPTs 功能；如需使用，請訂閱 ChatGPT Plus。如果 iOS/Android 上無法支付，推薦使用 WildCard 一條龍服務，使用我的連結我們雙方都可以節省 $2：[https://bewildcard.com/i/BEIQIAO](https://bewildcard.com/i/BEIQIAO)
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%201.png)
+
+如果你已經訂閱了 ChatGPT Plus，則還可以 [下載 macOS 版本的 ChatGPT 應用](https://community.openai.com/t/downloading-the-new-desktop-app-for-chatgpt/746857)（需要至少 M1 晶片的電腦），直接在電腦上與其對話（個人感覺電腦版的語音對話體驗更好）。
+
+- [ChatGPT macOS 版本體驗的 Demo](https://x.com/hubeiqiao/status/1792153529987330324)
+- [提前使用 ChatGPT macOS 版本的方法](https://x.com/hubeiqiao/status/1792039638439436662)
+
+## 找到 [IELTS Speaking Simulation](https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator)
+
+### 方式一：透過連結
+
+在 ChatGPT 應用已安裝的情況下，使用 Chrome/Safari 瀏覽器打開該連結後可以直接跳轉到 ChatGPT 應用並打開該 GPT。
+
+為了下次更方便的使用，建議先點擊頁面上方的名稱，然後選擇「Keep in Sidebar」，以後就可以直接在 Sidebar 中選擇使用了。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%202.png)
+
+### 方式二：搜索
+
+若連結無法直接跳轉到應用，也可通過搜索方式找到。
+
+1. 打開 ChatGPT 應用，劃出側邊欄，點擊 Explore GPTs，然後點擊右上角的搜索按鈕。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%203.png)
+
+2. 在搜索框中輸入 IELTS Speaking Simulator，找到如圖信息的應用，進入臨時頁面。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%204.png)
+
+3. 由於搜索出來的臨時頁面不支持使用語音功能，因此請先點擊頁面上方的名稱，然後選擇「Keep in Sidebar」，最後再返回主頁，在 Sidebar 中找到該應用並點擊即可正式使用。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%205.png)
+
+## 日常使用
+
+*注意，截至 2024 年 5 月，GPT-4o 的即時語音功能尚未對大眾開放，即目前使用的仍是去年發布的舊版本語音功能。*
+
+1. 從 Sidebar 中找到 [IELTS Speaking Simulation](https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator)，選擇要模擬的模塊。首次使用時，由於需要使用外部接口調用，需授權，選擇「Always allow」即可。抽題完成後，點擊右下角的語音模式開始模擬。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%206.png)
+
+（你也可以直接開始對話，告訴它你需要模擬的模塊。但在某些情況下它並不會調用接口抽題，因此建議還是採用先手動選擇的方式更為穩定）。
+
+2. 對話過程中如果有停頓，則本次輸入會中斷並直接發送給 ChatGPT。如果說得不夠流暢（尤其是第2部分和第3部分），你可以在說話時長按住中間的圓球，讓本次語音輸入即便在停頓的時候也能持續記錄下去。對於第2部分，在告知話題後，你需要自行進行1分鐘的計時，然後再開始對話。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%207.png)
+
+3. 在指定的模塊模擬完成後，系統會自動進行口語評分。然後根據系統引導，可以對答案進行優化。由於內容較長，每個部分都會單獨輸出。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%208.png)
+
+4. 最後，根據系統引導，還可以對本次模擬進行問題和詞彙的總結。如有額外需求，也可以自行輸入要求以獲取反饋。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%209.png)
+
+# 當前存在的問題
+
+1. 估分僅供參考（Prounciation 是完全不準的，因為當前語音模式下的輸入其實是語音轉文字，未來 GPT-4o 的即時語音對話開放後可能可以做到），更重要的是這樣即時性的練習。
+2. Part 1 有時體驗不佳。
+    - 雖然限制了 Part 1 的問題總數量，但有時候依舊會問十多個問題。
+    - 即便已經在 Prompt 中明確不要重複提問，但有時還是會繼續按順序問已經在上一個問題中回答了的問題或者是已經在上一個答案中提到的問題。
+3. 提供完善後的答案時，可能會漏題目，比如 Part 1 只給了部分的答案、Part 2 提供的信息比較少，這時需要明確糾正它。
+4. 極個別情況會把抽到的所有題目結果都展示出來，但現在的 V3 版本已經比以前好多了。
+
+要是遇到其他問題，也歡迎向我反饋，或者自行優化 Prompt（每個版本的 Prompt 以及題庫我都直接分享了出來，可以點擊 Releases 下載）。
+
+---
+
+此外，語音模式相對來說還是不太穩定（受 OpenAI 以及你的網絡影響），有時會無法連上，建議更換更穩定的網絡或者過一段時間再試。網絡不穩定時不僅存在連不上的情況，還會存在你好不容易說了一段，結果 ChatGPT 告知當前使用量大，讓你重新再來一遍的情況 😂😂😂。
+
+![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%2010.png)
+
+# 其他想法
+
+1.  在 2024 年 4 月 GPT-4 更新到 20240409 版本後，雖然一開始感覺 Code Interpreter 抽題的成功率顯著提升，但一周後又明顯下降，達到了幾乎每次都要重試好幾次才能成功抽題的狀態。在嘗試若干方法無果後，將隨機抽題模組由 ChatGPT 內置的 Code Interpreter 更新為用 Action 以外部接口的形式抽題。這也是我第一次做了自己的接口，這也間接說明了 ChatGPT 的能力還不行，期待後續的 GPT-5 吧。
+2. 過得可真快，這個 GPT 發布快半年了。這半年裡我自己也模擬了很多次，但實話講自己感覺分數可能最多也就提高了個 0.5，並不能直接帶來突飛猛進的提升。當然這和我沒有考試需求，也沒有去真正回顧每一次的練習有關。如果未來的 AI 能夠基於我的練習，主動發現我不知道自己不知道的問題，並再進一步提供針對性練習和反饋，那就厲害了。
+3. 對我而言，更重要的是心理上相對更自信了，以及面對若干話題有的聊了，希望 2 年後再進行雅思考試時能用上（我要求真不高，口語有 7 分就足夠了）。
+4. 單從體驗來說，當前 AI 的體驗還遠遠不夠。否則我也不會寫這麼多如何用的教程了😂😂😂。
+
+---
+
+<details>
+<summary><h1> 首次發布時的想法</h1></summary>
+
+<p>
+（寫於 2023.12）
+
+
+## 學習途中的想法碎片
 1. 我也嘗試過其他口語練習 GPTs，但往往只圍繞我熟悉的話題。雖然我沒有即刻的雅思考試需求，但我仍然覺得，使用這種具有明確標準的練習框架更為合適。
 2. 同時也不需要像以前準備雅思口語一樣刻意去背誦或者套題，就當作是即時的練習就好了。遇到中文也說不清楚的話題，完成後記住框架和關鍵詞就好了。
 3. 實話講，這是我用過的最好 GPTs，相比一對一口語陪練的費用，每月支付 20 美元甚至更多對我來說是物超所值的。希望在長時間的堅持練習後能夠幫助我克服對話焦慮的恐懼。當然，這只是個開始，估計明年我會再找行為面試相關的 GPTs。
@@ -64,3 +158,6 @@ GPTs 是基於 GPT-4 的，因此按照目前的限制，每 3 小時可以發 4
 ---
 
 最後，由衷的感謝 Sam 和 OpenAI([《ChatGPT 发布一周年个人随想》](https://hubeiqiao.notion.site/ChatGPT-0f9698e081dc4a1ca647293ec8c783ea?pvs=4))。我從未想過自己一個人不是那麼耗時的就能夠做出這樣的產品，這也間接說明了 Artificial General Intelligence(AGI) 將會在未來的年份裡徹底革新整個社會。對於我們這樣的普通人，當下最務實的建議就是在真實場景中去實際體驗這些產品。這僅僅只是個開始，需要更多耐心。
+
+</p>
+</details>
