@@ -10,7 +10,7 @@
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md">繁體中文</a>
 </a></p>
 
-![IELTS Speaking Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator_Interface.jpg)
+![IELTS Speaking Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator_Interface_V3.jpg)
 
 </div>
 
