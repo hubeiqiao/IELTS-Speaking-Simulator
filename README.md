@@ -58,6 +58,8 @@
 
 ![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_sc/IELTS%20Speaking%20Simulator%20V3%20Update_sc%202.png)
 
+最后，为了更好的模拟全英文对话环境，建议在 ChatGPT 应用设置中将 SPEECH 的 Main Language 设置为 English。
+
 ### 方式二：搜索
 
 若链接无法直接跳转到应用，也可通过搜索方式找到。
