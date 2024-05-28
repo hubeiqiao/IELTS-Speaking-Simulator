@@ -60,6 +60,8 @@ To make it easier to access next time, click on the name at the top of the page,
 
 ![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_en/IELTS%20Speaking%20Simulator%20V3%20Update_en%202.png)
 
+Finally, to better simulate a fully English conversation environment, it is recommended to set the main language of SPEECH to English in the ChatGPT application settings.
+
 ### Method 2: Search
 
 If the link doesn’t open the app directly, you can find it through search.
@@ -75,6 +77,8 @@ If the link doesn’t open the app directly, you can find it through search.
 3. Since the temporary page from the search result doesn’t support the voice feature, click the name at the top of the page and select “Keep in Sidebar.” Then, return to the homepage, find the GPT in the sidebar, and click to use it.
 
 ![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_en/IELTS%20Speaking%20Simulator%20V3%20Update_en%205.png)
+
+4. Finally, to better simulate a fully English conversation environment, it is recommended to set the main language of SPEECH to English in the ChatGPT application settings.
 
 # Daily Use
 
