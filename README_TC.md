@@ -59,6 +59,8 @@
 
 ![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%202.png)
 
+最後，為了更好的模擬全英文對話環境，建議在 ChatGPT 應用設定中將 SPEECH 的主語言設為英文。
+
 ### 方式二：搜索
 
 若連結無法直接跳轉到應用，也可通過搜索方式找到。
@@ -74,6 +76,8 @@
 3. 由於搜索出來的臨時頁面不支持使用語音功能，因此請先點擊頁面上方的名稱，然後選擇「Keep in Sidebar」，最後再返回主頁，在 Sidebar 中找到該應用並點擊即可正式使用。
 
 ![](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator%20V3%20Update_pic_tc/IELTS%20Speaking%20Simulator%20V3%20Update_tc%205.png)
+
+4. 最後，為了更好的模擬全英文對話環境，建議在 ChatGPT 應用設定中將 SPEECH 的主語言設為英文。
 
 ## 日常使用
 
