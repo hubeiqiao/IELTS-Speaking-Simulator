@@ -18,6 +18,10 @@
 # 介紹
 [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是一款基於 ChatGPT 的工具，它不僅完整模擬了雅思口語考試流程，還能隨機抽取最新的題庫。對話結束後，除了提供評估外，還可以根據對話內容進行整理並改善文本。與單獨練習相比，更接近真實場景。
 
+2024 年 5 月 30 日，所有 ChatGPT 用戶都可以免費體驗所有的 GPTs 了。因此 IELTS Speaking Simulation GPT 也可以被免費使用了！
+
+（當前免費用戶每 3 小時只能進行 16 條對話，從嘗試體驗的角度足夠了。如果要做完整練習，建議還是開通 ChatGPT Plus。）
+
 # 第三版更新说明
 
 [IELTS Speaking Simulation GPT](https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator) 發布了第三版更新：
@@ -28,11 +32,9 @@
 
 *注意：當前語音功能仍為舊版本。在 GPT-4o 發佈會上演示的即時功能尚需等待。*
 
-得益於 GPT-4o 的逐步開放，被灰度到的免費用戶也可以直接體驗這個 GPT 了。如果點擊連結後依舊不能使用，則說明你的帳號還未被灰度到，請再耐心等待或者開通 Plus。（當前免費用戶每 3 小時只能進行 16 條對話，從嘗試體驗的角度足夠了。如果要做完整練習，建議還是開通 Plus。）
+# 使用指南
 
 為了方便更多的朋友了解和使用，以下是該 GPT 完整的使用指南，歡迎查看。
-
-# 使用指南
 
 ## 前置條件
 
