@@ -18,6 +18,9 @@
 
 [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) is a GPT based on ChatGPT. It accurately simulates the IELTS speaking test, choosing questions from the latest question bank. It assesses and refines your responses after the conversation, offering a more realistic practice than doing it solo.
 
+On May 30, 2024, all ChatGPT users can access GPTs for free. Therefore, the [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) GPT can also be used for free! To help more people understand and use this tool, here is the complete user guide and the open-source project details.
+
+(Currently, free users can have 16 conversations every 3 hours, which is sufficient for trial purpose. For full practice, consider subscribing to ChatGPT Plus.)
 
 # V3 Update
 
@@ -27,13 +30,9 @@
 2. Improved stability in random question selection.
 3. Better experience by automatically asking if you want to improve your answers after the simulation.
 
-*Note: The voice feature is still the old version. The real-time features shown at the GPT-4o launch are not available yet.*
-
-GPT-4o is gradually being rolled out. Some free users can now access GPTs directly. If you can’t use it yet, please wait or subscribe to Plus. (Currently, free users can have 16 conversations every 3 hours, which is sufficient for trial purpose. For full practice, consider subscribing to ChatGPT Plus.)
+# User Guide
 
 To help more people understand and use this tool, here is the complete user guide and the open-source project details.
-
-# User Guide
 
 ## Prerequisites
 
