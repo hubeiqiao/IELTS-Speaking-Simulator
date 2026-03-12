@@ -4,7 +4,7 @@
 <div align="center">
     <h1><a href="https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator">IELTS Speaking Simulation</a></h1>
     <p>A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.</p>
-    <p>4.4 Ratings(100+), 10K+ Conversations</p>
+    <p>4.4 Ratings(400+), 100K+ Conversations</p>
     <p>English&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md">简体中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md">繁體中文</a>
@@ -162,3 +162,4 @@ Besides this speaking GPT, I've also created GPTs for reading and writing. For r
 Finally, a big thank you to Sam and OpenAI(["A Year with ChatGPT: Personal Reflections and Transformation"](https://hubeiqiao.notion.site/A-Year-with-ChatGPT-Personal-Reflections-and-Transformation-a69865a83beb4a4d8bbaf2adde71ab0d?pvs=4)). I never imagined I could create such a product so quickly on my own. It indirectly shows how Artificial General Intelligence (AGI) will revolutionize society in the coming years. For ordinary people like us, the most practical advice is to experience these products in real scenarios. This is just the beginning and requires more patience.
 </p>
 </details>
+
