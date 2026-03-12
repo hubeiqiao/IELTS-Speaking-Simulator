@@ -4,7 +4,7 @@
 <div align="center">
     <h1><a href="https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator">IELTS Speaking Simulation</a></h1>
     <p>A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.</p>
-    <p>4.4 Ratings(100+), 10K+ Conversations</p>
+    <p>4.4 Ratings(100+), 100K+ Conversations</p>
     <p><a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a>简体中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md">繁體中文</a>
