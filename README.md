@@ -3,21 +3,56 @@
 </div>
 <div align="center">
     <h1><a href="https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator">IELTS Speaking Simulation</a></h1>
-    <p>A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.</p>
-    <p>4.4 Ratings(400+), 100K+ Conversations</p>
+    <p>最初的开源雅思口语模拟 GPT，也是后来演化成 Joe Speaking 的起点。</p>
+    <p>4.4 Ratings(500+), 100K+ Conversations</p>
+    <p>Trusted by 50,000+ Learners</p>
+    <p><a target="_blank" href="https://joespeaking.com">JoeSpeaking.com</a> · 基于这个开源项目继续做出来的独立产品</p>
     <p><a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a>简体中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md">繁體中文</a>
-</a></p>
+    </p>
 
 ![IELTS Speaking Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator_Interface_V3.jpg)
 
 </div>
 
 # 介绍
-[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是基于 ChatGPT 的一款 GPT，它不仅完整模拟了雅思口语考试流程，并能随机抽取最新题库。对话结束后，除了提供评估外，还可以根据对话内容整理并改善文本。与单独练习相比，更贴近真实场景。
+[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是我基于 ChatGPT 做的第一个真正跑起来的开源雅思口语模拟项目。它的目标很直接：尽可能真实地模拟雅思口语 Part 1、2、3，让用户通过自然对话完成练习，并在每次结束后拿到即时反馈。
 
-2024 年 5 月 30 日，所有 ChatGPT 用户都可以免费体验所有的 GPTs 了。因此 [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) GPT 也可以被免费使用了！
+这个项目最初不是为了“做一个开源仓库”而做的，而是因为口语一直是我自己真实的人生问题。我想要一个更真实、更便宜、可以反复练习的工具，所以先做出了这个 GPT，并把 Prompt、流程、题库和版本都公开了出来。
+
+后来，它不再只是一个 Prompt 实验。这个 GPT 累积了 100K+ Conversations，拿到 4.4 分（500+ Ratings），也被 50,000+ Learners 使用。更重要的是，它进一步演化成了 [JoeSpeaking.com](https://joespeaking.com)：一个把我在这个开源项目里学到的一切继续往前做的独立产品。
+
+## 当前状态
+
+- 100K+ Conversations
+- 4.4 评分（500+ Ratings）
+- Trusted by 50,000+ Learners
+- 这个仓库继续保留原始 GPT 的开源基础内容
+- 这里可以看到 Prompt、流程、题库和 Releases 的公开记录
+- [JoeSpeaking.com](https://joespeaking.com) 是沿着这条产品线继续演进的独立版本
+
+## 为什么这个仓库现在仍然重要
+
+它不是一个“旧版本备份”而已。这个仓库依然是原始 GPT 的公开参考资料，也是这个产品故事最开始的地方。
+
+如果你是学习者，可以看到这个 GPT 最初是怎么设计的，理解它的练习逻辑，甚至按自己的需求做调整。  
+如果你是开发者或产品人，也可以从这里看到一个真实被大量使用的 AI 学习工具，是怎么设计 Prompt、组织流程、维护题库并持续迭代的。
+
+我一直保留它公开，也是因为我从一开始就不想把它做成一个封闭黑箱。我希望真正有需要的人，既能直接使用，也能拿去参考、复用和继续改。
+
+## 关于 Joe Speaking
+
+[JoeSpeaking.com](https://joespeaking.com) 是这个项目继续往前走之后的结果。
+
+它保留了“真实口语练习”这个核心，但不再只停留在一个 GPT 里，而是变成了一个更完整的日常练习产品：
+
+- 更自然的实时 AI 对话
+- 更完整的即时反馈与估分体验
+- 个人练习记录、收藏与重复练习
+- 不只是一次性对话，而是更完整的练习闭环
+
+如果你想体验现在更完整的产品，请直接访问 [JoeSpeaking.com](https://joespeaking.com)。如果你想看这一切最初是怎么开始的，这个仓库就是原点。
 
 （当前免费用户每 3 小时只能进行 16 条对话，从尝试体验的角度足够了。如果要做完整练习，建议还是开通 ChatGPT Plus。）
 

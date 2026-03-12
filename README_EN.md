@@ -3,12 +3,14 @@
 </div>
 <div align="center">
     <h1><a href="https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator">IELTS Speaking Simulation</a></h1>
-    <p>A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.</p>
-    <p>4.4 Ratings(400+), 100K+ Conversations</p>
+    <p>The original open-source IELTS Speaking Simulator GPT, and the project that later became Joe Speaking.</p>
+    <p>4.4 Ratings(500+), 100K+ Conversations</p>
+    <p>Trusted by 50,000+ Learners</p>
+    <p><a target="_blank" href="https://joespeaking.com">JoeSpeaking.com</a> · The current standalone product built from this open-source foundation</p>
     <p>English&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md">简体中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_TC.md">繁體中文</a>
-</a></p>
+    </p>
 
 ![IELTS Speaking Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator_Interface_V3.jpg)
 
@@ -16,9 +18,39 @@
 
 # Introduction
 
-[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) is a GPT based on ChatGPT. It accurately simulates the IELTS speaking test, choosing questions from the latest question bank. It assesses and refines your responses after the conversation, offering a more realistic practice than doing it solo.
+[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) is the original open-source GPT project I built for realistic IELTS speaking practice. It was designed to simulate Part 1, 2, and 3 of the IELTS speaking test with natural AI conversation, structured question-bank coverage, and instant feedback after each session.
 
-On May 30, 2024, all ChatGPT users can access GPTs for free. Therefore, the [IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) GPT can also be used for free!
+Built by a learner, for learners, this project started from a real problem in my own life: spoken English held me back for years. I wanted something more realistic, more repeatable, and far more affordable than traditional one-on-one practice. So I built the GPT I wished had existed when I was preparing.
+
+Over time, the project grew far beyond a simple prompt experiment. The GPT reached 100K+ conversations, earned a 4.4 rating from 500+ ratings, and became part of the practice journey for 50,000+ learners. It also became the product foundation for [JoeSpeaking.com](https://joespeaking.com), the newer standalone experience built from everything I learned by shipping and maintaining this open-source project.
+
+## Current Status
+
+- 100K+ conversations
+- 4.4 rating from 500+ ratings
+- Trusted by 50,000+ learners
+- This repo stays public as the open-source foundation of the original GPT
+- It keeps the prompts, workflows, question banks, and release history public
+- [JoeSpeaking.com](https://joespeaking.com) is the current standalone product that grew out of this work
+
+## Why This Repo Still Matters
+
+This repository is not just an old snapshot. It is the public record of how the original simulator was built and improved. If you are a learner, you can understand how the GPT works and reuse parts of it. If you are a builder, you can study the prompt structure, workflow design, question-bank setup, and release history behind a widely used AI language-learning project.
+
+Keeping this repo public also matters to me because the original decision was to share the work, not hide it. I wanted learners and builders to have something practical they could inspect, adapt, and learn from.
+
+## About Joe Speaking
+
+[JoeSpeaking.com](https://joespeaking.com) is where this work goes further.
+
+Joe Speaking keeps the core idea of realistic speaking practice, but expands it into a more complete daily product:
+
+- Real-time natural AI conversation
+- Instant band-score style feedback
+- Personal collections, repeated review, and practice history
+- A smoother standalone product experience beyond a single GPT workflow
+
+If you want the newest product experience, start with [JoeSpeaking.com](https://joespeaking.com). If you want the original open-source GPT foundation, keep reading here.
 
 (Currently, free users can have 16 conversations every 3 hours, which is sufficient for trial purpose. For full practice, consider subscribing to ChatGPT Plus.)
 
@@ -29,6 +61,8 @@ On May 30, 2024, all ChatGPT users can access GPTs for free. Therefore, the [IEL
 1. Updated with the latest question bank for May-August 2024.
 2. Improved stability in random question selection.
 3. Better experience by automatically asking if you want to improve your answers after the simulation.
+
+*Note: The section below documents the original GPT workflow and V3 release history.*
 
 # User Guide
 

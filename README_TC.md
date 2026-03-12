@@ -3,12 +3,14 @@
 </div>
 <div align="center">
     <h1><a href="https://chatgpt.com/g/g-uGueIrCsT-ielts-speaking-simulator">IELTS Speaking Simulation</a></h1>
-    <p>A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.</p>
-    <p>4.4 Ratings(400+), 100K+ Conversations</p>
-   <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <p>最初的開源雅思口語模擬 GPT，也是後來發展成 Joe Speaking 的起點。</p>
+    <p>4.4 Ratings(500+), 100K+ Conversations</p>
+    <p>Trusted by 50,000+ Learners</p>
+    <p><a target="_blank" href="https://joespeaking.com">JoeSpeaking.com</a> · 基於這個開源項目繼續延伸出的獨立產品</p>
+    <p><a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README_EN.md">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/README.md">简体中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a>繁體中文</a>
-</a></p>
+    </p>
 
 ![IELTS Speaking Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator/blob/main/IELTS%20Speaking%20Simulator_Interface_V3.jpg)
 
@@ -16,9 +18,42 @@
 
 
 # 介紹
-[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是一款基於 ChatGPT 的工具，它不僅完整模擬了雅思口語考試流程，還能隨機抽取最新的題庫。對話結束後，除了提供評估外，還可以根據對話內容進行整理並改善文本。與單獨練習相比，更接近真實場景。
+[IELTS Speaking Simulator](https://chat.openai.com/g/g-uGueIrCsT-ielts-speaking-simulator) 是我基於 ChatGPT 做的第一個真正跑起來的開源雅思口語模擬項目。它的目標很直接：盡可能真實地模擬雅思口語 Part 1、2、3，讓使用者透過自然對話完成練習，並在每次結束後拿到即時回饋。
 
-2024 年 5 月 30 日，所有 ChatGPT 用戶都可以免費體驗所有的 GPTs 了。因此 IELTS Speaking Simulation GPT 也可以被免費使用了！
+這個項目最初不是為了「做一個開源倉庫」而做的，而是因為口語一直是我自己真實的人生問題。我想要一個更真實、更便宜、可以反覆練習的工具，所以先做出了這個 GPT，並把 Prompt、流程、題庫和版本都公開了出來。
+
+後來，它不再只是一個 Prompt 實驗。這個 GPT 累積了 100K+ Conversations，拿到 4.4 分（500+ Ratings），也被 50,000+ Learners 使用。更重要的是，它進一步演化成了 [JoeSpeaking.com](https://joespeaking.com)：一個把我在這個開源項目裡學到的一切繼續往前做的獨立產品。
+
+## 目前狀態
+
+- 100K+ Conversations
+- 4.4 評分（500+ Ratings）
+- Trusted by 50,000+ Learners
+- 這個倉庫繼續保留原始 GPT 的開源基礎內容
+- 這裡可以看到 Prompt、流程、題庫與 Releases 的公開記錄
+- [JoeSpeaking.com](https://joespeaking.com) 是沿著這條產品線繼續發展的獨立版本
+
+## 為什麼這個倉庫現在仍然重要
+
+它不是單純的「舊版本備份」。這個倉庫依然是原始 GPT 的公開參考資料，也是整個產品故事的起點。
+
+如果你是學習者，可以看到這個 GPT 最初是怎麼設計的，理解它的練習邏輯，甚至依照自己的需求調整。  
+如果你是開發者或產品人，也可以從這裡看到一個真實被大量使用的 AI 學習工具，是怎麼設計 Prompt、組織流程、維護題庫並持續迭代的。
+
+我一直保留它公開，也是因為我從一開始就不想把它做成封閉黑箱。我希望真正有需要的人，既能直接使用，也能拿去參考、複用與繼續修改。
+
+## 關於 Joe Speaking
+
+[JoeSpeaking.com](https://joespeaking.com) 是這個項目繼續往前走之後的結果。
+
+它保留了「真實口語練習」這個核心，但不再只停留在一個 GPT 裡，而是變成一個更完整的日常練習產品：
+
+- 更自然的即時 AI 對話
+- 更完整的即時回饋與估分體驗
+- 個人練習記錄、收藏與重複練習
+- 不只是一次性對話，而是更完整的練習閉環
+
+如果你想體驗現在更完整的產品，請直接訪問 [JoeSpeaking.com](https://joespeaking.com)。如果你想看這一切最初是怎麼開始的，這個倉庫就是原點。
 
 （當前免費用戶每 3 小時只能進行 16 條對話，從嘗試體驗的角度足夠了。如果要做完整練習，建議還是開通 ChatGPT Plus。）
 
@@ -31,6 +66,8 @@
 3. 優化體驗，模擬完成後自動詢問是否需改進答案，無需每次手動描述。
 
 *注意：當前語音功能仍為舊版本。在 GPT-4o 發佈會上演示的即時功能尚需等待。*
+
+*以下內容主要記錄原始 GPT 的使用方式與 V3 版本更新歷史。*
 
 # 使用指南
 
